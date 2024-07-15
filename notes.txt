@@ -1,0 +1,26 @@
+VUE.JS
+------------------------
+Inti folder :
+- src
+    - main.js
+        - library npm
+    - views : nambah frontend komponen
+        - consume API
+            PENTING! Setiap load endpoint harus cek token ke backend
+            pake axios
+            name -> *untuk id
+            data -> declare variabel yang ingin digunakan
+                untuk ngisi di method
+            beforeCreate -> untuk cek token, ga get data
+            created -> manggil method / data
+            method -> fungsi fungsi
+
+            Login -> 
+            Logout -> hapur localStorage trus redirect login
+    - routes
+        - routes.js = index.js di coreUI (list endpoint FE)
+        - error handling 404 : /* ubah page404 tetap pakai komponen lainnya
+    - components (Bawaan template) untuk diimport ke Views
+        - Ubah text
+
+- public (asset)

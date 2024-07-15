@@ -1,0 +1,26 @@
+const getters = {
+	axis: state => state.axis,
+	axi: state => state.axi,
+	listRegAxi: state => state.listRegAxi,
+	detailRegAxi: state => state.detailRegAxi,
+	included: state => state.included,
+	lokasi: state => state.lokasi,
+	lokasiIncluded: state => state.lokasiIncluded,
+	banks: state => state.banks,
+	cabangs: state => state.cabangs,
+	cabang: state => state.cabang,
+	provinsis: state => state.provinsis,
+	kotas: state => state.kotas,
+	kecamatans: state => state.kecamatans,
+	desas: state => state.desas,
+	point: state => state.point,
+	count_pendaftaran_axi: state => state.count_pendaftaran_axi,
+	jenis_axi: state=> state.jenis_axi,
+	jenis_kelamin: state=> state.jenis_kelamin,
+	agama: state=> state.agama,
+	statusPernikahan: state=> state.statusPernikahan,
+	legalForm: state=> state.legalForm,
+	templateId: state=> state.templateId,
+}
+
+export default getters

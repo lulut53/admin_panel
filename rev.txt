@@ -1,0 +1,59 @@
+- Chart pertebel / line
+- all right reserved footer, delete made with, lowercase (v)
+
+- Provinsi di nasabah pemohon (v)
+- Search by status (v)
+
+detail axi
+- tempat daftar jadi kode cabang (v)
+- gaada nama debitur 
+- created at (v)
+- status perkawinan (v)
+- nama ibu kandung (v)
+- nama pasangan (v)
+- no ktp pasangan (v)
+- an rekening (v)
+- nama status npwp (v)
+- pkp status (v)
+- edit data semua saja
+
+- tabel mlm : tugas ganti jadi aksi, dibuat pada jadi cabang (v)
+
+pendaftaran axi
+- axi id ref jadi axi mentor (v)
+
+detail maxi
+- + email (v)
+- nama program (v)
+- lampiran pemilik (v)
+- produk ada detail (v)
+
+pendaftaran maxi
+- kolom status (v)
+
+pengajuan produk
+- switch kolom nama maxi dan nama produk (v)
+- status kolom (v)
+- ubah status (v)
+- buat pengajuan delete (v)
+
+detail pengajuan maxi
+- tambah nama maxi
+- informasi pemilik
+
+list produk
+- kolom status
+- detail pengajuan produk jadi detail produk
+- nambah 
+- nambah dana multiguna di backend produk
+
+berita
+- reslice dengan exsisting
+
+kategori
+- penerima jadi digunakan oleh dan hanya axi dan gurst saja
+
+
+--------------------------
+- Belum ada storage dan FTP
+- 

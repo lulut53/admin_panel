@@ -1,0 +1,6 @@
+.el-table .cell {
+    word-break: break-word;
+}
+.form-control[readonly]{
+  background-color: white !important;
+}
